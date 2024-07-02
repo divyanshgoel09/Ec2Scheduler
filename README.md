@@ -10,10 +10,9 @@ Some policies which will be used for start and stop
 ![image](https://github.com/divyanshgoel09/Ec2Scheduler/assets/118998853/2ccd73d4-efd8-4039-b352-b84fb537c892)
 
 We created two Lambda Function to trigger start and stop 
-
+(Used the given Python Code Files)
 START
 ![image](https://github.com/divyanshgoel09/Ec2Scheduler/assets/118998853/c95154b7-40a4-4248-8a06-e7fab2b0cec3)
-
 STOP
 ![image](https://github.com/divyanshgoel09/Ec2Scheduler/assets/118998853/3718cc4c-4879-463d-be6d-3e43275c156a)
 
